@@ -4,7 +4,7 @@
     <script src="jquery.js"></script> 
     <script> 
     $(function(){
-      $("#includedContent").load("graph/A.html"); 
+      $("#includedContent").load("A.html"); 
     });
     </script> 
   </head> 
