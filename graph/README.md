@@ -1,2 +1,2 @@
 
-{% include_relative A.html %}
+{% include_relative graph/A.html %}
