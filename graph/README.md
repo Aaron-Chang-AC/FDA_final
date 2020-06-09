@@ -1,15 +1,2 @@
 <!DOCTYPE html>
-<html> 
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("A.html"); 
-    });
-    </script> 
-  </head> 
-
-  <body> 
-     <div id="includedContent"></div>
-  </body> 
-</html>
+<!--#include file="A.html" -->
