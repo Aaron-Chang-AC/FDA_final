@@ -1,1 +1,2 @@
-{% include A.html %}
+
+{% include_relative A.html %}
