@@ -4,7 +4,7 @@
     <script src="jquery.js"></script> 
     <script> 
     $(function(){
-      $("#includedContent").load("https://aaron-chang-ac.github.io/FDA_final/graph/A.html"); 
+      $("#includedContent").load("./graph/A.html"); 
     });
     </script> 
   </head> 
